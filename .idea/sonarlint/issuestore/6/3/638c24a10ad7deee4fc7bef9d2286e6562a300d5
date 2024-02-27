@@ -1,0 +1,10 @@
+
+5
+java:S1640B"Convert this Map to an EnumMap.(œÊ²
+V
+java:S1854,"@Remove this useless assignment to local variable "inscriptions".(ü×‰Á
+G
+java:S1602/",Remove useless curly braces around statement(ìÎ‚Óıÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(Å‰Å¾ùÿÿÿÿ
+E
+java:S1197C"*Move the array designators [] to the type.(şÄ±ûÿÿÿÿ
