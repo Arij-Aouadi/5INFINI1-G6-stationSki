@@ -1,4 +1,6 @@
 FROM openjdk:8
 EXPOSE 8087
-COPY target/gestion-stationSki-1.1.0.jar skitest.jar
-ENTRYPOINT ["java", "-jar", "/skitest.jar"]
+ARG JAR_FILE=target/*.jar
+COPY ${JAR_FILE} app.jar
+ENTRYPOINT ["java", "-jar", "app.jar"]
+
