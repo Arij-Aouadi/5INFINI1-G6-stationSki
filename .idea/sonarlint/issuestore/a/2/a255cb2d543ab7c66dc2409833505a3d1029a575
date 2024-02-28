@@ -1,11 +1,0 @@
-
-v
-java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ins".(ÒµÚùÿÿÿÿ
-V
-java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(£éµ
-e
-java:S1128"CRemove this unused import 'com.example.stationski.entities.Skieur'.(§õ“´ùÿÿÿÿ8¼ÒÒ´õ0
-f
-java:S1128"DRemove this unused import 'io.swagger.v3.oas.annotations.Operation'.(şÏæšşÿÿÿÿ8¼ÒÒ´õ0
-R
-java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8¼ÒÒ´õ0
